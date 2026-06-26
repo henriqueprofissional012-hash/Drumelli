@@ -125,7 +125,7 @@ a {
 
 .brand-logo {
   display: block;
-  width: clamp(88px, 8vw, 118px);
+  width: clamp(104px, 8.5vw, 132px);
   height: auto;
 }
 
@@ -1700,7 +1700,7 @@ a {
   }
 
   .brand-logo {
-    width: 88px;
+    width: 112px;
   }
 
   .topbar-cta {
@@ -2230,7 +2230,7 @@ a {
   .brand-logo {
     max-width: min(190px, 56vw);
     height: auto;
-    width: 104px;
+    width: 108px;
   }
 
   .hero-copy {
