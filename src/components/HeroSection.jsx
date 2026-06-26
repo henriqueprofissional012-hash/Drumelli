@@ -45,10 +45,7 @@ export function HeroSection() {
 
       <header className="topbar">
         <a className="brand" href="#inicio" aria-label="Drumelli Studio">
-          <span className="brand-main">
-            DRUM<span>E</span>LLI
-          </span>
-          <span className="brand-sub">STUDIO</span>
+          <img src="/assets/drumelli-logo.webp" alt="Drumelli Studio" className="brand-logo" />
         </a>
 
         <nav className="nav" aria-label="Navegação principal">
